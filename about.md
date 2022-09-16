@@ -9,4 +9,4 @@ author:
 
 # Wer sind wir?
 
-texttext
+# Warum machen wir das?

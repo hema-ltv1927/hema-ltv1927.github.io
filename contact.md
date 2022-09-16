@@ -9,10 +9,11 @@ author:
 
 # Wir trainieren
 
-| Tag        | Zeit                    | Ort                                         |
--------------|-------------------------|-------------------------------------------- |
-| Dienstag   | 19:00 Uhr bis 20:30 Uhr | Sporthalle an der Vhs im Diesterwegforum, 47475 Kamp-Lintfort |
-| Donnerstag | 19:30 Uhr bis 20:30 Uhr | Sporthalle an der Vhs im Diesterwegforum, 47475 Kamp-Lintfort |
+| Tag        | Zeit                    | Ort                                             |
+-------------|-------------------------|------------------------------------------------ |
+| Dienstag   | 19:00 Uhr bis 20:30 Uhr | Sporthalle an der Vhs im Diesterwegforum        |
+| Donnerstag | 19:30 Uhr bis 20:30 Uhr | Sporthalle an der Vhs im Diesterwegforum        |
+| alternativ | 19:x0 Uhr bis 20:30 Uhr | Freigelände des Zechenparks, bei schönem Wetter |
 
 # Uns findet man hier
 **Sporthalle an der Vhs im Diesterwegforum** \
@@ -22,5 +23,5 @@ Eingang links neben dem Haupteingang (strassenseitig) \
 Parkmöglichkeiten gibt es auf dem Schulhof
 
 # Anmeldung
-Bei Interesse bitten wir um vorherige Anmeldung und Absprache. \
-Bitte per Email and **MSK(at)LTV-1927.de**
+Bei Interesse bitten wir um vorherige Anmeldung und Absprache mit. \
+Erste Kontaktaufnahme bitte per Email an **[{{ site.email }}](mailto:{{ site.email }})**

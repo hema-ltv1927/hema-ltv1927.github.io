@@ -1,8 +1,4 @@
 <header class="site-header" role="banner">
-{%- if site.favicon -%}
-  <link rel="icon" type="image/x-icon" href="{{ site.favicon | relative_url }}">
-{%- endif -%}
-
   <div class="wrapper">
     {%- assign default_paths = site.pages | map: "path" -%}
     {%- assign page_paths = site.header_pages | default: default_paths -%}

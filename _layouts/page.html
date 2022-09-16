@@ -5,14 +5,14 @@ layout: default
 <article class="post">
 
   <header class="post-header">
-    {% if page.image %}
-      {% if page.image != 'default' %}
+    {%- if page.image -%}
+      {%- if page.image != 'default' -%}
         <img src="{{- page.image | relative_url -}}" alt="" class="header-image">
-      {% else %}
+      {%- else -%}
         {% assign default-image = "/assets/default-image-pages.jpg" %}
         <img src="{{- default-image | relative_url -}}" alt="" class="header-image">
-      {% endif %}
-    {% endif %}
+      {%- endif -%}
+    {%- endif -%}
     <!-- The heading is enough, I don't want to see the 'title' in addition
     <h1 class="post-title">{{ page.title | escape }}</h1>
     -->
