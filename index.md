@@ -9,6 +9,7 @@ author: Peter Joost
 
 **Historische Kampfkunst Lintfort** - Sport mit historischem Hintergrund.
 
+
 # Wilkommen
 Wir trainieren hauptsächlich mit dem Langen Schwert aus dem 14-16 Jahrhundert, 
 sind aber offen für andere Waffengattungen und Kampfkünste aus alten Quellen.

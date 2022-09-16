@@ -42,6 +42,8 @@ url: "https://hema-ltv1927.github.io" # the base hostname & protocol for your si
 # New fields, not used by default by Jekyll and themes - these required changes to the original minima theme!
 # Copyright, copyright symbol and year (auto)
 copyright: "LTV 1927 e.V."
+# Extra favicon for the page
+favicon: ./assets/favicon.ico
 # the main logo of the page
 title-logo: ./assets/title-logo.png
 # Below change would allow to use a logo from an online source, requires also change in the header.html
