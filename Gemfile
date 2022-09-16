@@ -10,12 +10,12 @@ source "https://rubygems.org"
 # This will help ensure the proper Jekyll version is running.
 # Happy Jekylling!
 # gem "jekyll", "~> 4.2.2"
-# as the below din't work I'm trying ti with the following
+# as the below didn't work I'm trying it with the following
 # gem "jekyll", "~> 4.2.2"
 # This is the default theme for new Jekyll sites. You may change this to anything you like.
 # removed minima theme as it is now a regular page, now longer using a gem-based theme
 # gem "minima", "~> 2.5"
-# othe candidate themes to try:
+# other candidate themes to try:
 # Dinky :: https://github.com/pages-themes/dinky
 # Tactile :: https://github.com/pages-themes/tactile
 # Slate :: https://github.com/pages-themes/slate
