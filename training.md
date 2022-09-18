@@ -9,6 +9,9 @@ author: Peter Joost
 
 # Ausrichtung
 
-# Rollen
 
-# Inhalte
+# Rollen
+## Übungsleitung und Koordination
+## Anleitende
+
+Die [Trainingsinhalte](/content/)
