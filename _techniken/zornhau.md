@@ -11,8 +11,6 @@ Der Zornhau startet ähnlich wie der Oberhau aus der Hut 'vom Tag' und wird diag
  - von oben rechts nach unten links geschlagen
  - zielt entweder auf das gegnerische Schwert, oder direkt auf den Kopf
 
-
-
 ## Partnerübung
 Die Varianten werden in langsamem Sparring ausgeführt, dabei ist immer einer inder Rolles des Coaches, der den anderen durch die Übbung führt.
 
@@ -22,11 +20,7 @@ Die Varianten werden in langsamem Sparring ausgeführt, dabei ist immer einer in
 - der andere wartet etwas und schlägt einen Zornhau gegen das gegnerische Schwert (Mitte) und macht gleichzeitig einen Schritt zurück.
 Hiermit wird die gegenerische Klinge nach außen und unten versetzt.
 
-# Zornhau gegen Oberhau (Verteidige kommt ins Vor)
+# Zornhau gegen Oberhau (Verteidiger kommt ins Vor)
 - beide stehen in der rechten Hut vom Tag, linker Fuß vorn
 - einer greift mit einem rechten Oberhau an und macht einen ganzen Schritt nach vorn
 - der andere schlägt einen Zornhau, versucht mit seiner Stärke (näher am Parier) die Mitte des gegnerischen Schwertes zu treffen und triff gleichzeitig mit seiner Schwäche zum Kopf. Er macht dabei einen ganzen Schritt schräg rechts vor.
-
-
-# 
-- 
