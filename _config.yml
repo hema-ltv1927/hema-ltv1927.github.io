@@ -75,3 +75,9 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+# content collection
+collections:
+  techniken:
+    output: true
+    permalink: /:collection/:title
+

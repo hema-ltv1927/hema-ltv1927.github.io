@@ -12,7 +12,8 @@ Auf dieser Seite halten wir für uns unsere Trainingsinhalte als 'Bausteine' fes
 # Einführung
 
 ## Wir befassen uns mit folgenden historischen Inhalten nach Leichtenauer
-- Die fünf Meisterhaue: Zornhau, Zwerchhau, Scheitelhau, Krumphau und Schielhau
+- Grundlagen: Langschwert als Sportgerät, einfache Hiebe ([Oberhau](/techniken/oberhau), Mittelhau, Unterhau), erste Bewegungen und Stellungen
+- Die fünf Meisterhaue: [Zornhau](/techniken/zornhau), Zwerchhau, Scheitelhau, Krumphau und Schielhau
 - Die vier Haupthuten: Ochs, Pflug, Alber und 'Vom Tag'
 - Weitere Beihuten: 
 - Die fünf Worte: Vor, Nach, Indes, Schwäche und Stärke (und Mensur)
