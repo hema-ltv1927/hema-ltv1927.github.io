@@ -15,13 +15,15 @@ Auf dieser Seite halten wir für uns unsere Trainingsinhalte als 'Bausteine' fes
 - Grundlagen: Langschwert als Sportgerät, einfache Hiebe ([Oberhau](/techniken/oberhau), Mittelhau, Unterhau), erste Bewegungen und Stellungen
 - Die fünf Meisterhaue: [Zornhau](/techniken/zornhau), Zwerchhau, Scheitelhau, Krumphau und Schielhau
 - Die vier Haupthuten: Ochs, Pflug, Alber und 'Vom Tag'
-- Weitere Beihuten: 
+- Weitere Huten (weniger genutzte): 
+- Die drei Wunder: Hieb, Stich und Schnitt
 - Die fünf Worte: Vor, Nach, Indes, Schwäche und Stärke (und Mensur)
 - Die Hauptstücke: Versetzen, Hängen, Abnehmen, Nachreissen, Zucken, Ein- und Auswinden
 - Die weiteren Stücke: Überlaufen, Durchwechseln, Durchlaufen, Abschneiden, Händdrucken, Hängen
 
 ## Weitere historische Inhalte, die bei uns Platz finden
 - Das Ringen
+- [Entwaffnungen](/techniken/entwaffnen)
 
 ## Andere, nicht historische Inhalte
 - Feldenkrais
