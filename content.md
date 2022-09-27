@@ -11,13 +11,13 @@ Auf dieser Seite halten wir für uns unsere Trainingsinhalte als 'Bausteine' fes
 
 # Einführung
 
-## Wir befassen uns mit folgenden historischen Inhalten nach Leichtenauer
+## Wir befassen uns mit folgenden historischen Inhalten nach Liechtenauer
 - Grundlagen: Langschwert als Sportgerät, einfache Hiebe ([Oberhau](/techniken/oberhau), Mittelhau, Unterhau), erste Bewegungen und Stellungen
-- Die fünf Meisterhaue: [Zornhau](/techniken/zornhau), Zwerchhau, Scheitelhau, Krumphau und Schielhau
+- Die fünf Meisterhaue: [Zornhau](/techniken/zornhau), [Zwerchhau](/techniken/zwerchhau), [Krumphau](/techniken/krumphau), Scheitelhau und Schielhau
 - Die vier Haupthuten: Ochs, Pflug, Alber und 'Vom Tag'
 - Weitere Huten (weniger genutzte): 
 - Die drei Wunder: Hieb, Stich und Schnitt
-- Die fünf Worte: Vor, Nach, Indes, Schwäche und Stärke (und Mensur)
+- Die fünf Worte: [Vor, Nach, Indes, Schwäche und Stärke (und Mensur)](/techniken/fuenf-worte)
 - Die Hauptstücke: Versetzen, Hängen, Abnehmen, Nachreissen, Zucken, Ein- und Auswinden
 - Die weiteren Stücke: Überlaufen, Durchwechseln, Durchlaufen, Abschneiden, Händdrucken, Hängen
 
