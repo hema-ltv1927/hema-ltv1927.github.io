@@ -10,6 +10,13 @@ author:
 Auf dieser Seite halten wir für uns unsere Trainingsinhalte als 'Bausteine' fest, die jeweils als  
 
 # Einführung
+Jung Ritter lere / got lip haben / frawen io ere / 
+So wechst dein ere / Uebe ritterschaft und lere /
+Kunst dy dich czyret / vnd in krigen sere hofiret /
+
+Junger Ritter, lerne, Gott zu lieben und die Frauen zu ehren,
+so wächst deine Ehre; übe dich in Ritterlichkeit und lerne
+[die] Kunst, die dich schmückt und dich im Kampf verherrlicht.
 
 ## Wir befassen uns mit folgenden historischen Inhalten nach Liechtenauer
 - Grundlagen: Langschwert als Sportgerät, einfache Hiebe ([Oberhau](/techniken/oberhau), Mittelhau, Unterhau), erste Bewegungen und Stellungen
