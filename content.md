@@ -24,7 +24,7 @@ so wächst deine Ehre; übe dich in Ritterlichkeit und lerne
 - Die vier Haupthuten: Ochs, Pflug, Alber und 'Vom Tag'
 - Weitere Huten (weniger genutzte): 
 - Die drei Wunder: Hieb, Stich und Schnitt
-- Die fünf Worte: [Vor, Nach, Indes, Schwäche und Stärke (und Mensur)](/techniken/fuenf-worte)
+- Die fünf Worte: [Vor, Nach, Indes, Weich und Hart (Tempi und Mensur)](/techniken/fuenf-worte)
 - Die Hauptstücke: Versetzen, Hängen, Abnehmen, Nachreissen, Zucken, Ein- und Auswinden
 - Die weiteren Stücke: Überlaufen, Durchwechseln, Durchlaufen, Abschneiden, Händdrucken, Hängen
 
