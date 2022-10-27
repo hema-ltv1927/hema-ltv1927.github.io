@@ -2,29 +2,26 @@
 title: Zornhau
 layout: page
 image: default
-date:   2022-09-18 19:00:00 +0200
+date:   2022-10-27 14:00:00 +0200
 author: Lars Walloscheck
 ---
 
 # Einleitung
-Der Zornhau startet ähnlich wie der Oberhau aus der Hut 'vom Tag' und wird diagonal
- - von oben rechts nach unten links geschlagen
- - kann tief auch durch den Pflug "geschoben" werden
- - zielt vornehmlich auf das gegnerische Schwert
+Der Zornhau startet ähnlich wie der Oberhau und wird diagonal
+ - von oben rechts nach unten links in den linken Pflug geschlagen
+ - kann tief auch durch den linken Pflug "geschoben" werden
+ - zielt vornehmlich auf das gegnerische Schwert (passiv)
+ - als Meisterhau funktioniert er auch im Indes oder Vor
 
 ## Partnerübungen
 Die Varianten werden in langsamem Sparring ausgeführt, dabei ist immer einer in der Rolles des Coaches, der den anderen durch die Übung führt.
+
 
 # Zornhau gegen Oberhau (Verteidiger bleibt im Nach)
 - beide stehen in der rechten Hut vom Tag, linker Fuß vorn
 - Coach greift mit einem rechten Oberhau an und macht einen ganzen Schritt nach vorn
 - Trainierende wartet etwas (Timing) und schlägt einen Zornhau gegen das gegnerische Schwert (Mitte) und macht gleichzeitig einen Schritt zurück.
 Hiermit wird die gegenerische Klinge nach außen und unten versetzt.
-
-# Zornhau gegen Zornhau/Oberhau (Verteidiger kommt ins Vor, *Indes*)
-- beide stehen in der rechten Hut vom Tag, linker Fuß vorn
-- Coach greift mit einem rechten Oberhau an und macht einen ganzen Schritt nach vorn
-- Trainierende schlägt einen Zornhau, versucht mit seiner Stärke (näher am Parier) die Mitte des gegnerischen Schwertes zu treffen und triff gleichzeitig mit seiner Schwäche zum Kopf. Er macht dabei einen ganzen Schritt schräg rechts vor.
 
 # Zornhauort gegen Pflug/gerade Versatzung (Verteidiger bleibt im Nach)
 Vorübung zum Zornhauort gegen den Zornhau
@@ -34,7 +31,12 @@ Vorübung zum Zornhauort gegen den Zornhau
 - Coach reagiert nicht (oder drückt mit seiner Schwäche gegen die Stärke des Angreifers)
 - Trainierende setzt mit einem Stich zur Brust nach und macht dabei einen Schritt rechten Bein
 
-# Zornhauort gegen Zornhau/Oberhau (Verteidiger bleibt erst im Nach, kommt mit der Folgeaktion ins Vor)
+# Zornhau gegen Oberhau (Verteidiger kommt ins Vor, *Indes*)
+- beide stehen in der rechten Hut vom Tag, linker Fuß vorn
+- Coach greift mit einem rechten Oberhau an und macht einen ganzen Schritt nach vorn
+- Trainierende schlägt einen Zornhau, versucht mit seiner Stärke (näher am Parier) die Mitte des gegnerischen Schwertes zu fangen und triff gleichzeitig mit seiner Schwäche zum Kopf. Er macht dabei einen ganzen Schritt schräg rechts vor.
+
+# Zornhauort gegen Oberhau (Verteidiger bleibt erst im Nach, kommt mit der Folgeaktion ins Vor)
 - beide stehen in der rechten Hut vom Tag, linker Fuß vorn
 - Coach greift mit einem rechten Zornhau/Oberhau an und macht einen ganzen Schritt nach vorn
 - Trainierende schlägt einen Zornhau gegen die Fläche des gegnerischen Schwertes (Mitte) so dass die Schwertspitze leicht nach links außen. Die Aktion erfolgt im Stand, Wechselschritt geht auch.
@@ -53,7 +55,7 @@ Vorübung zum Zornhauort gegen den Zornhau
 # Zornhau gegen Zornhau - Folgetechnik Hieb mit kurzer Schneide
 - beide stehen in der rechten Hut vom Tag, linker Fuß vorn
 - Coach greift mit einem rechten Zornhau/Oberhau an und macht einen ganzen Schritt nach vorn
-- Trainierende schlägt einen Zornhau gegen die Fläche des gegnerischen Schwertes (Mitte) so dass die Schwertspitze leicht nach links außen. Die Aktion erfolgt im Stand
+- Trainierende schlägt einen Zornhau gegen die Fläche des gegnerischen Schwertes (Mitte) so dass die Schwertspitze leicht nach links außen. Die Aktion erfolgt im Stand, oder mit einem kleinen Schritt rechts vor
 - Trainierende schlägt aus der Bindung mit der kurzen Schneide zur rechten Seite des Kopfes. Dabei efolgt ein kleiner Schritt nach rechts vorn.
 - Trainierende windet hoch in den Ochs und zieht sich zurück
 
