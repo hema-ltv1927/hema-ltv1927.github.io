@@ -6,6 +6,8 @@ image: /images/main-page.jpg
 date:   2022-11-15 08:46:00 +0200
 author: Peter Joost
 ---
+Bildquelle: [Funke Medien](https://www.waz.de/kultur/veranstaltungstipps/moderne-schwertkunst-der-herr-der-ringe-am-niederrhein-id230660446.html)
+
 
 **Historische Kampfkunst Lintfort** - Sport mit historischem Hintergrund.
 Mit dem 'Langen Schwert', mit anderen bewaffneten, sowie waffenlosen Techniken. Unterstützt durch Erkenntnisse aus dem modernen Breitensport und anderen gesundheitsförderlichen Aspekten.
