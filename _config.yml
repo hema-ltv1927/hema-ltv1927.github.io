@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Historische Kampfkunst Lintfort
-email: MSK@ltv-1927.de
+email: hema@ltv-1927.de
 description: >-2 # this ('>-2') means to ignore newlines until "baseurl:", requiring an intent of 2 spaces
   Sport mit historischem Hintergrund 
   - mit dem 'Langen Schwert',  
@@ -80,4 +80,6 @@ collections:
   techniken:
     output: true
     permalink: /:collection/:title
-
+  sandbox:
+    output: true
+    permalink: /:collection/:title
