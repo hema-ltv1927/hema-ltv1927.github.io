@@ -22,7 +22,9 @@ __Hart__: Jemand ist hart in der Bindung - der Druck auf das gegnerische Schwert
 
 Das fünfte Wort __Indes__ verbindet die beiden Paare.
 
-Die Leute von Hematics haben ein wunderbares Bild entwickelt, welches die fünf Wörter im Zusammenhang darstellt.
+Die Macher von Hematics haben ein wunderbares Bild entwickelt, welches die fünf Wörter im Zusammenhang darstellt.
+
+<img src="/images/5-Liechtenauer-Woerter-GER-scaled.jpg" alt="Fünf Wörter" title="Fünf Wörter (Hematics)" width="50%"/>
 
 __Tempi__: eine Aktion, die mit der gleichen Geschwindigkeit ausgeführt wird. Das kann ein Schritt oder eine Schwerttechnik sein
 

@@ -125,24 +125,6 @@ a {
 
 
 /**
- * Blockquotes
- */
-blockquote {
-  color: $grey-color;
-  border-left: 4px solid $grey-color-light;
-  padding-left: $spacing-unit / 2;
-  @include relative-font-size(1.125);
-  letter-spacing: -1px;
-  font-style: italic;
-
-  > :last-child {
-    margin-bottom: 0;
-  }
-}
-
-
-
-/**
  * Code formatting
  */
 pre,
@@ -268,3 +250,34 @@ h3.as-trainee {
   text-align: right;
 }
 
+/**
+ * Blockquotes
+ */
+blockquote {
+  background-color: $grey-color-light;
+  border-radius: 0px 5px 5px 0px;
+  color: $grey-color;
+  border-left: 4px solid $grey-color-dark;
+  padding-left: $spacing-unit / 2;
+  @include relative-font-size(1.125);
+  letter-spacing: -1px;
+  font-style: italic;
+
+  > :last-child {
+    margin-bottom: 0;
+  }
+}
+
+blockquote.rightalign {
+  color: $grey-color;
+  border-radius: 5px 0px 0px 5px;
+  border-left: 0px;
+  border-right: 4px solid $grey-color-dark;
+  padding-left: $spacing-unit * 2 ;
+  @include relative-font-size(1.125);
+  letter-spacing: -1px;
+  font-style: italic;
+  > :last-child {
+    margin-bottom: 0;
+  }
+}
