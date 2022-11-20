@@ -1,3 +1,11 @@
+---
+title: Test
+layout: page
+image: 
+date:   2022-11-20 14:20:00 +0200
+author: Peter Jooszt
+---
+
 <p class="as-coach">
 ### Erst der Coach so
 "Ich mache das ..."
