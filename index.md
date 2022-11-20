@@ -2,7 +2,7 @@
 # The content of this file shall not start with a heading because it will force Jekyll to create a new page entry in the nav bar. So start with simple text first.
 # Every other page must have the 'title' set in the frontmatter to have it shown in the nav bar and have its own link.
 layout: home
-image: 
+image: /images/main-page.jpg
 date:   2022-11-15 08:46:00 +0200
 author: Peter Joost
 ---
