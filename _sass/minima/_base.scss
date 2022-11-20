@@ -98,7 +98,6 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 
-
 /**
  * Links
  */
@@ -252,3 +251,20 @@ table {
     border: 1px solid $grey-color-light;
   }
 }
+
+
+/**
+ * Customized
+ */
+/** for Coach */
+.as-coach {
+  font-style: italic;
+  text-align: left;
+}
+
+/** for Trainee */
+.as-trainee {
+  font-style: italic;
+  text-align: right;
+}
+

@@ -20,7 +20,7 @@ Ihr könnt in leichter Sportkleidung ohne weitere Ausrüstung teilnehmen, wir st
 Der Lintforter Turnverein setzt die 3G-Regel für die Teilnahme voraus!
 Interessierte müssen sich per Email anmelden – [info@ltv-1927.de](mailto:info@ltv-1927.de)
 
-#### Historische Kampfkunst
+## Historische Kampfkunst
 Eigentlich "historische Kampfkünste Europas", auf Englisch "Historical European Martial Arts", oder kurz HEMA.
 
 Das schließt sehr viele verschiedene althergebrachte Kampf- und Bewegungskünste unter einen Begriff zusammen. Unser Training beinhaltet hauptsächlich Schwerpunkte aus Kampf mit dem langen Schwert unter Berücksichtigung weiterer sport- und gesundheitlicher Aspekte. Wir passen unsere Inhalte ständig an, um ein möglichst ganzheitliches Training mit dem Sportgerät „Schwert“ zu erreichen.
