@@ -16,6 +16,7 @@ Der Zwerchhau startet aus dem Ochs oder vom Tag
 Die Varianten werden in langsamem Sparring ausgeführt, dabei ist immer einer in der Rolles des Coaches, der den anderen durch die Übung führt.
 
 # erste Übungen
+
 ## Zwerchhau gegen schrägen Oberhau (Verteidiger bleibt erst im Nach, kommt mit der Folgeaktion ins Vor)
 Beide stehen in der rechten Hut vom Tag (oder Schulter)
 
@@ -42,6 +43,7 @@ Beide stehen in der rechten Hut vom Tag (oder Schulter)
 
 ## Zwerchhau aus der Krone mit langer Schneide
 Der Coach steht in der rechten Hut vom Tag auf der Schulter.
+
 Der Trainierende steht im Alber oder einer anderen unteren Hut. (Schrankhut mit Spitze leicht rechts oder links bietet sich an)
 
 >Coach greift mit einem geraden Oberhau und mit einem rechten ganzen Schritt nach vorne an.
@@ -57,6 +59,7 @@ Der Trainierende steht im Alber oder einer anderen unteren Hut. (Schrankhut mit 
 </blockquote>
 
 # Fortgeschrittene Übungen
+
 ## Unterzwerchen - Konter gegen Zwerch, Tiefer Zwerchhau gegen Hohen Zwerchhau
 Beide stehen in der rechten Hut auf der Schulter.
 
@@ -87,6 +90,7 @@ Beide stehen in der rechten Hut auf der Schulter.
 
 ## Zwerchhau als Fehler (Verführung)
 Der Coach steht in der rechten Hut vom Tag.
+
 Der Trainierende steht in der rechten Wechselhut.
 
 <blockquote class="rightalign">
@@ -102,6 +106,7 @@ Der Trainierende steht in der rechten Wechselhut.
 
 ## Zwerchhau gegen schrägen Oberhau von außen
 Der Trainierende steht in der rechten Hut vom Tag.
+
 Der Coach steht in der linken Hut vom Tag.
 
 >Coach greift mit einem linken schrägen Oberhau an und macht dabei einen ganzen Schritt mit dem linken Bein nach vorne
@@ -112,6 +117,7 @@ Der Coach steht in der linken Hut vom Tag.
 
 ## Duplieren aus dem Zwerchhau
 Der Coach steht in der rechten Hut vom Tag.
+
 Der Trainierende steht in der rechten Wechselhut.
 
 <blockquote class="rightalign">
@@ -141,7 +147,7 @@ Beide stehen in der rechten Hut vom Tag auf der Schulter.
 
 >Coach versetzt den Trainierenden nach rechts außen und drückt die Klinge des Trainierenden nach unten bzw. schiebt gleichzeitig sein Schwert über die Klinge, sodass er in die linke unter Blöße hauen/schneiden kann
 
-## Konter gegen auf die Klinge Fallen / Mutieren - Armringen
+### Konter gegen auf die Klinge Fallen / Mutieren - Armringen
 
 <blockquote class="rightalign">
 <p>Trainierende folge seiner Klinge nach links unten und greift mit seinem linken Arm über seine Klinge/die Arme vom Coach und schließt diese in seine Achsel ein. (Armringen). Dann kann der Trainierende dem Coach frei zuhauen/zustechen.</p>

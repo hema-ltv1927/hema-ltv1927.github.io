@@ -24,8 +24,9 @@ Der Zornhau startet ähnlich wie der Oberhau und wird diagonal
 ## Partnerübungen
 Die Varianten werden in langsamem Sparring ausgeführt, dabei ist immer einer in der Rolles des Coaches, der den anderen durch die Übung führt.
 
+# erste Übungen
 
-# Zornhau gegen Oberhau (Verteidiger bleibt im Nach)
+## Zornhau gegen Oberhau (Verteidiger bleibt im Nach)
 Beide stehen in der rechten Hut vom Tag, linker Fuß vorn
 
 > Coach greift mit einem rechten Oberhau an und macht einen ganzen Schritt nach vorn
@@ -37,7 +38,7 @@ Beide stehen in der rechten Hut vom Tag, linker Fuß vorn
 </blockquote>
 
 
-# Zornhauort gegen Pflug/gerade Versatzung (Verteidiger bleibt im Nach)
+## Zornhauort gegen Pflug/gerade Versatzung (Verteidiger bleibt im Nach)
 Vorübung zum Zornhauort gegen den Zornhau
 
 >Coach steht im linken Pflug, rechtes Bein vorn
@@ -56,7 +57,7 @@ Vorübung zum Zornhauort gegen den Zornhau
 <p>Trainierende setzt mit einem Stich zur Brust nach und macht dabei einen Schritt rechten Bein</p>
 </blockquote>
 
-# Zornhau gegen Oberhau (Verteidiger kommt ins Vor, *Indes*)
+## Zornhau gegen Oberhau (Verteidiger kommt ins Vor, *Indes*)
 Beide stehen in der rechten Hut vom Tag, linker Fuß vorn
 
 > Coach greift mit einem rechten Oberhau an und macht einen ganzen Schritt nach vorn
@@ -67,7 +68,7 @@ Beide stehen in der rechten Hut vom Tag, linker Fuß vorn
 </blockquote>
 
 
-# Zornhauort gegen Oberhau (Verteidiger bleibt erst im Nach, kommt mit der Folgeaktion ins Vor)
+## Zornhauort gegen Oberhau (Verteidiger bleibt erst im Nach, kommt mit der Folgeaktion ins Vor)
 Beide stehen in der rechten Hut vom Tag, linker Fuß vorn
 
 >Coach greift mit einem rechten Zornhau/Oberhau an und macht einen ganzen Schritt nach vorn
@@ -83,7 +84,7 @@ Beide stehen in der rechten Hut vom Tag, linker Fuß vorn
 </blockquote>
 
 
-# Zornhauort + Abnehmen (Verteidiger bleibt erst im Nach, kommt mit der Folgeaktion ins Vor)
+## Zornhauort + Abnehmen (Verteidiger bleibt erst im Nach, kommt mit der Folgeaktion ins Vor)
 Beide stehen in der rechten Hut vom Tag, linker Fuß vorn
  
 >Coach greift mit einem rechten Zornhau/Oberhau an und macht einen ganzen Schritt nach vorn
@@ -118,7 +119,7 @@ graph TD;
     T5-->C7(Block und Treffer am Kopf)
 ```
 
-# Zornhau gegen Zornhau - Folgetechnik Hieb mit kurzer Schneide
+## Zornhau gegen Zornhau - Folgetechnik Hieb mit kurzer Schneide
 Beide stehen in der rechten Hut vom Tag, linker Fuß vorn
 
 >Coach greift mit einem rechten Zornhau/Oberhau an und macht einen ganzen Schritt nach vorn
@@ -131,7 +132,7 @@ Beide stehen in der rechten Hut vom Tag, linker Fuß vorn
 </blockquote>
 
 
-# Konter gegen Zornhauort - Winden
+## Konter gegen Zornhauort - Winden
 Beide stehen in der rechten Hut vom Tag, linker Fuß vorn
 
 >Coach greift mit einem rechten Zornhau/Oberhau an und macht einen ganzen Schritt nach vorn
@@ -144,7 +145,10 @@ Beide stehen in der rechten Hut vom Tag, linker Fuß vorn
 
 >Coach steigt mit dem linken Bein nach rechts (Übersetzen?) und windet hoch in den linken Ochs und führt seinerseits einem Stich in Richtung Kopf/Brust aus.
 
-# Zornhauort gegen Pflug/gerade Versatzung  (Zornhau als Einladung/Finte)
+
+# Fortgeschrittene Übungen
+
+## Zornhauort gegen Pflug/gerade Versatzung  (Zornhau als Einladung/Finte)
 
 Coach steht im linken Pflug, rechtes Bein vorn
 Trainierende steht in der rechten Hut vom Tag, linker Fuß vorn
