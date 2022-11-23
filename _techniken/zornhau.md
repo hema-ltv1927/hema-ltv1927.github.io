@@ -18,14 +18,15 @@ Der Zornhau startet ähnlich wie der Oberhau und wird diagonal
 - spielerisch versuchen sich den anderen an der Schulter zu treffen
 
 - einer geht seitlich mit einem Schritt raus, dreht sich in 45° Ausrichtung zum Partner, Partner bleibt dabei in seiner Ausrichtung und Position
-- spielerisch versuchen sich den anderen an der Schulter zu treffen
+- spielerisch versuchen, den anderen an der Schulter zu tapsen
+- __Steigerung:__ diese Übung aus der Bewegnung ausführen. 
 
 ## Partnerübungen
 Die Varianten werden in langsamem Sparring ausgeführt, dabei ist immer einer in der Rolles des Coaches, der den anderen durch die Übung führt.
 
 
 # Zornhau gegen Oberhau (Verteidiger bleibt im Nach)
-- beide stehen in der rechten Hut vom Tag, linker Fuß vorn
+Beide stehen in der rechten Hut vom Tag, linker Fuß vorn
 
 > Coach greift mit einem rechten Oberhau an und macht einen ganzen Schritt nach vorn
 
@@ -38,19 +39,26 @@ Die Varianten werden in langsamem Sparring ausgeführt, dabei ist immer einer in
 
 # Zornhauort gegen Pflug/gerade Versatzung (Verteidiger bleibt im Nach)
 Vorübung zum Zornhauort gegen den Zornhau
+
 >Coach steht im linken Pflug, rechtes Bein vorn
+
+
 <blockquote class="rightalign">
 <p>Trainierende steht in der rechten Hut vom Tag, linker Fuß vorn</p>
 <p>Trainierende schlägt einen Zornhau zu Klinge des Verteidigers um die Zentrallinie einzunehmen. Dabei erfolgt nur ein Ziehschritt/Vorstellschritt mit dem linken Bein.</p>
 </blockquote>
+
+
 >Coach reagiert nicht (oder drückt mit seiner Schwäche gegen die Stärke des Angreifers)
+
 
 <blockquote class="rightalign">
 <p>Trainierende setzt mit einem Stich zur Brust nach und macht dabei einen Schritt rechten Bein</p>
 </blockquote>
 
 # Zornhau gegen Oberhau (Verteidiger kommt ins Vor, *Indes*)
-- beide stehen in der rechten Hut vom Tag, linker Fuß vorn
+Beide stehen in der rechten Hut vom Tag, linker Fuß vorn
+
 > Coach greift mit einem rechten Oberhau an und macht einen ganzen Schritt nach vorn
 
 <blockquote class="rightalign">
@@ -60,7 +68,8 @@ Vorübung zum Zornhauort gegen den Zornhau
 
 
 # Zornhauort gegen Oberhau (Verteidiger bleibt erst im Nach, kommt mit der Folgeaktion ins Vor)
-- beide stehen in der rechten Hut vom Tag, linker Fuß vorn
+Beide stehen in der rechten Hut vom Tag, linker Fuß vorn
+
 >Coach greift mit einem rechten Zornhau/Oberhau an und macht einen ganzen Schritt nach vorn
 
 <blockquote class="rightalign">
@@ -75,7 +84,8 @@ Vorübung zum Zornhauort gegen den Zornhau
 
 
 # Zornhauort + Abnehmen (Verteidiger bleibt erst im Nach, kommt mit der Folgeaktion ins Vor)
-- beide stehen in der rechten Hut vom Tag, linker Fuß vorn
+Beide stehen in der rechten Hut vom Tag, linker Fuß vorn
+ 
 >Coach greift mit einem rechten Zornhau/Oberhau an und macht einen ganzen Schritt nach vorn
 
 <blockquote class="rightalign">
@@ -109,25 +119,46 @@ graph TD;
 ```
 
 # Zornhau gegen Zornhau - Folgetechnik Hieb mit kurzer Schneide
-- beide stehen in der rechten Hut vom Tag, linker Fuß vorn
-- Coach greift mit einem rechten Zornhau/Oberhau an und macht einen ganzen Schritt nach vorn
-- Trainierende schlägt einen Zornhau gegen die Fläche des gegnerischen Schwertes (Mitte) so dass die Schwertspitze leicht nach links außen. Die Aktion erfolgt im Stand, oder mit einem kleinen Schritt rechts vor
-- Trainierende schlägt aus der Bindung mit der kurzen Schneide zur rechten Seite des Kopfes. Dabei efolgt ein kleiner Schritt nach rechts vorn.
-- Trainierende windet hoch in den Ochs und zieht sich zurück
+Beide stehen in der rechten Hut vom Tag, linker Fuß vorn
+
+>Coach greift mit einem rechten Zornhau/Oberhau an und macht einen ganzen Schritt nach vorn
+
+
+<blockquote class="rightalign">
+<p>Trainierende schlägt einen Zornhau gegen die Fläche des gegnerischen Schwertes (Mitte) so dass die Schwertspitze leicht nach links außen. Die Aktion erfolgt im Stand, oder mit einem kleinen Schritt rechts vor</p>
+<p>Trainierende schlägt aus der Bindung mit der kurzen Schneide zur rechten Seite des Kopfes. Dabei efolgt ein kleiner Schritt nach rechts vorn.</p>
+<p>Trainierende windet hoch in den Ochs und zieht sich zurück.</p>
+</blockquote>
+
 
 # Konter gegen Zornhauort - Winden
-- beide stehen in der rechten Hut vom Tag, linker Fuß vorn
-- Coach greift mit einem rechten Zornhau/Oberhau an und macht einen ganzen Schritt nach vorn
-- Trainierende schlägt einen Zornhau gegen die Fläche des gegnerischen Schwertes (Mitte) so dass die Schwertspitze leicht nach links außen. Die Aktion erfolgt im Stand
-- Trainierende windet den Griff etwas aus und führt einen Stich zum  Kopf, kleinen Schritt mit dem rechten Bein nach rechts vorn
-- Coach steigt mit dem linken Bein nach rechts (Übersetzen?) und windet hoch in den linken Ochs, gefolgt von einem Stich zum Kopf
+Beide stehen in der rechten Hut vom Tag, linker Fuß vorn
+
+>Coach greift mit einem rechten Zornhau/Oberhau an und macht einen ganzen Schritt nach vorn
+
+
+<blockquote class="rightalign">
+<p>Trainierende schlägt einen Zornhau gegen die Fläche des gegnerischen Schwertes (Mitte) so dass die Schwertspitze leicht nach links außen. Die Aktion erfolgt im Stand</p>
+<p>Trainierende windet den Griff etwas aus und führt einen Stich zum  Kopf, kleinen Schritt mit dem rechten Bein nach rechts vorn</p>
+</blockquote>
+
+>Coach steigt mit dem linken Bein nach rechts (Übersetzen?) und windet hoch in den linken Ochs und führt seinerseits einem Stich in Richtung Kopf/Brust aus.
 
 # Zornhauort gegen Pflug/gerade Versatzung  (Zornhau als Einladung/Finte)
-- Coach steht im linken Pflug, rechtes Bein vorn
-- Trainierende steht in der rechten Hut vom Tag, linker Fuß vorn
-- Trainierende schlägt einen Zornhau absichtlich in die Stärke des Coach und gibt die Zentrallinie auf. Dabei erfolgt ein Ziehschritt/Vorstellschritt mit dem linken Bein.
-- Coach geht darauf ein und reagiert mit einem Stich
-- Trainierende nimmt das linke Bein etwas zurück und dreht sich zum Coach, kontert mit "Hieb kurzer Schneide", oder windet hoch in den linken Ochs und sticht ebenfalls
+
+Coach steht im linken Pflug, rechtes Bein vorn
+Trainierende steht in der rechten Hut vom Tag, linker Fuß vorn
+
+<blockquote class="rightalign">
+<p>Trainierende schlägt einen Zornhau absichtlich in die Stärke des Coach und gibt die Zentrallinie auf. Dabei erfolgt ein Ziehschritt/Vorstellschritt mit dem linken Bein.</p>
+</blockquote>
+
+>Coach geht darauf ein und reagiert mit einem Stich
+
+
+<blockquote class="rightalign">
+<p>Trainierende nimmt das linke Bein etwas zurück (Wechselschritt) und dreht sich zum Coach, kontert mit "Hieb kurzer Schneide", oder windet hoch in den linken Ochs und sticht ebenfalls</p>
+</blockquote>
 
 # Kombination: Zornhau mit Auswinden gegen passives Versetzen
 

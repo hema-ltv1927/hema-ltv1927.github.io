@@ -16,29 +16,61 @@ Die Varianten werden in langsamem Sparring ausgeführt, dabei ist immer einer in
 
 # Krumphau mit Wegprellen, Krumphau gegen geraden Oberhau (Doppelter Schritt)
 Zur klaren Verständlichkeit des seitlichen Steigen aus der Angriffslinie können beide Partner auf einer Linie stehend beginnen.
-- der Coach steht in der Hut vom Tag Überkopf.
-- Trainierende steht in der rechten Schrankhut.
-- der Coach greift mit einem geraden Oberhau an und macht dabei einen Wechselschritt auf der Stelle.
-- Trainierende schlägt einen Krumphau mit der langen Schneide (oder Fläche) an die Fläche gegnerischen Klinge und prellt diese etwas nach links weg. Dabei erfolgt ein doppelter Schritt, wobei mit einem rechten ganzen Schritt nach rechts aus der Linie begonnen wird.
-- Trainierende schlägt von gegnerischen Klinge ab zu Kopf (=Folgehau als Schnappschlag, lange Schneide oder kurze Schneide (wenn von linker Seite)). Dabei erfolgt mit dem linken Fuß ein Drehschritt, mit dem der Trainierende sich zum Coach dreht.
+>der Coach steht in der Hut vom Tag Überkopf.
+
+<blockquote class="rightalign">
+<p>Trainierende steht in der rechten Schrankhut.</p>
+</blockquote>
+
+>der Coach greift mit einem geraden Oberhau an und macht dabei einen Wechselschritt auf der Stelle.
+
+<blockquote class="rightalign">
+<p>Trainierende schlägt einen Krumphau mit der langen Schneide (oder Fläche) an die Fläche gegnerischen Klinge und prellt diese etwas nach links weg. Dabei erfolgt ein doppelter Schritt, wobei mit einem rechten ganzen Schritt nach rechts aus der Linie begonnen wird.</p>
+<p>Trainierende schlägt von gegnerischen Klinge zum Kopf (=Folgehau als Schnappschlag, lange Schneide oder kurze Schneide (wenn von linker Seite)). Dabei erfolgt mit dem linken Fuß ein Drehschritt(?), mit dem der Trainierende sich zum Coach dreht.</p>
+</blockquote>
+
 
 # Krumphau gegen einen schrägen Oberhau (Doppelter Schritt)
-- der Coach steht in der rechten Hut vom Tag.
-- Trainierende steht in der rechten Schrankhut.
-- der Coach greift mit einem rechten Oberhau an und macht dabei einen rechten Ganzen Schritt nach vorne.
-- Trainierende schlägt einen Krumphau mit der langen Schneide (oder Fläche) an die Fläche gegnerischen Klinge und prellt diese etwas nach links weg. Dabei erfolgt ein doppelter Schritt, wobei mit einem rechten ganzen Schritt nach rechts aus der Linie begonnen wird.
-- Trainierende schlägt von gegnerischen Klinge ab zu Kopf (=Folgehau als Schnappschlag, lange Schneide oder kurze Schneide (wenn von linker Seite)). Dabei erfolgt mit dem linken Fuß ein Drehschritt, mit dem der Trainierende sich zum Coach dreht.
+>der Coach steht in der rechten Hut vom Tag.
 
-# Krumphau gegen geraden Oberhau (Hüftdrehung nach schräg außen)
-- der Coach steht in der Hut vom Tag Überkopf.
-- Trainierende steht in der rechten Schrankhut.
-- der Coach greift mit einem geraden Oberhau an und macht dabei einen Wechselschritt auf der Stelle.
-- Trainierende schlägt einen Krumphau mit der langen Schneide (oder Fläche) an die Fläche gegnerischen Klinge und prellt diese etwas nach links weg. Dabei erfolgt mit dem rechten Bein ein ganzer Schritt nach rechts aus der Linie, die Hüfte dreht schräg nach rechts vorne.
-- Trainierende schlägt von gegnerischen Klinge ab zu Kopf (=Folgehau als Schnappschlag, lange Schneide oder kurze Schneide (wenn von linker Seite)). Dabei erfolgt mit dem linken Fuß ein weiterer Schritt nach rechts vorn.
+<blockquote class="rightalign">
+<p>Trainierende steht in der rechten Schrankhut.</p>
+</blockquote>
 
-# Krumphau gegen schrägen Oberhau (Hüftdrehung nach schräg außen)
-- der Coach steht in der rechten Hut vom Tag.
-- Trainierende steht in der rechten Schrankhut.
+
+>der Coach greift mit einem rechten Oberhau an und macht dabei einen rechten Ganzen Schritt nach vorne.
+
+
+<blockquote class="rightalign">
+<p>Trainierende schlägt einen Krumphau mit der langen Schneide (oder Fläche) an die Fläche gegnerischen Klinge und prellt diese etwas nach links weg. Dabei erfolgt ein doppelter Schritt, wobei mit einem rechten ganzen Schritt nach rechts aus der Linie begonnen wird.</p>
+<p>Trainierende schlägt von gegnerischen Klinge zum Kopf (=Folgehau als Schnappschlag, lange Schneide oder kurze Schneide (wenn von linker Seite)). Dabei erfolgt mit dem linken Fuß ein Drehschritt, mit dem der Trainierende sich zum Coach dreht.</p>
+Unterschied?? gleicher Ablauf wie vorher
+</blockquote>
+
+# Krumphau gegen geraden Oberhau (Hüftdrehung)
+>der Coach steht in der Hut vom Tag Überkopf.
+
+<blockquote class="rightalign">
+<p>Trainierende steht in der rechten Schrankhut.</p>
+</blockquote>
+
+
+>der Coach greift mit einem rechten Oberhau an und macht dabei einen rechten Ganzen Schritt nach vorne.
+
+
+<blockquote class="rightalign">
+<p>Trainierende schlägt einen Krumphau mit der langen Schneide (oder Fläche) an die Fläche gegnerischen Klinge und prellt diese etwas nach links weg. Dabei erfolgt mit dem rechten Bein ein ganzer Schritt nach rechts aus der Linie, die <strong>Hüfte dreht</strong> in Richtung Coach</p>
+<p>Trainierende schlägt von gegnerischen Klinge ab zu Kopf (=Folgehau als Schnappschlag, lange Schneide oder kurze Schneide (wenn von linker Seite)). Dabei erfolgt mit dem linken Fuß ein weiterer Schritt nach rechts vorn.</p>
+</blockquote>
+
+# Krumphau gegen schrägen Oberhau (Hüftdrehung)
+>der Coach steht in der rechten Hut vom Tag.
+
+
+<blockquote class="rightalign">
+<p>Trainierende steht in der rechten Schrankhut.</p>
+</blockquote>
+
 - der Coach greift mit einem rechten Oberhau an und macht dabei einen rechten Ganzen Schritt nach vorne.
 - Trainierende schlägt einen Krumphau mit der langen Schneide (oder Fläche) an die Fläche gegnerischen Klinge und prellt diese etwas nach links weg. Dabei erfolgt mit dem rechten Bein ein ganzer Schritt nach rechts aus der Linie, die Hüfte dreht schräg nach rechts vorne.
 - Trainierende schlägt von gegnerischen Klinge ab zu Kopf (=Folgehau als Schnappschlag, lange Schneide oder kurze Schneide (wenn von linker Seite)). Dabei erfolgt mit dem linken Fuß ein weiterer Schritt nach rechts vorn.
@@ -57,7 +89,11 @@ Zur klaren Verständlichkeit des seitlichen Steigen aus der Angriffslinie könne
 *exakte Distanzarbeit* bringt hier den eigenen Schutz - vgl. Pythagoras!
 
 # Krumphau gegen Pflug
-- der Coach steht im linken Pflug
+>Der Coach steht im linken Pflug
+
+<blockquote class="rightalign">
+<p>Trainierende steht in der rechten Schrankhut oder in der rechten Hut vom Tag.</p>
+</blockquote>
 - Trainierende steht in der rechten Schrankhut oder in der rechten Hut vom Tag.
 - Trainierende schlägt einen Krumphau mit der langen Schneide (oder Fläche) an die Fläche der gegnerischen Klinge und prellt diese etwas nach links weg. Dabei erfolgt ein doppelter Schritt, wobei mit einem rechten ganzen Schritt nach rechts aus der Linie begonnen wird.
 - Trainierende schlägt von gegnerischen Klinge von unten zum Kopf (=Folgehau als Schnappschlag, kurze Schneide). Dabei erfolgt mit dem linken Fuß ein Drehschritt, mit dem der Trainierende sich zum Coach dreht.
@@ -71,11 +107,20 @@ Dieses Stück ist auch fechtbar, wenn der Gegner aus dem Pflug mit einem Stich u
 - hierbei ist eine *exakte Distanzarbeit* äußerst wichtig, da es nicht die Klinge ist die dich schützt!
 
 # Kombination: Krumphau gegen Zucken
-- Beide stehen in der rechten Hut vom Tag.
-- der Coach tut so als würde er mich mit schrägem Oberhau von rechts angreifen. Dabei macht er einen kleinen Schritt mit seinem rechten Bein nach vorne.
-- Trainierende versucht den Oberhau mit einem Zornhau nach links zu versetzen.
-- der Coach zuckt seinen Stich zurück in den linken Pflug und sticht mir aus diesem zu meinem Gesicht. Dabei macht er einen ganzen Schritt mit seinem linken Bein nach links vorne und lässt dabei bewusst die Zentrallinie offen.
-- Trainierende versetzt den Stich mit einem Krumphau (kurzen Schneide) nach rechts und schlägt dem Coach mit der langen Schneide zu seinem Kopf zu. Dabei bewege ich mich schräg nach links vorne.
+Beide stehen in der rechten Hut vom Tag.
+
+>der Coach tut so als würde er mich mit schrägem Oberhau von rechts angreifen. Dabei macht er einen kleinen Schritt mit seinem rechten Bein nach vorne.
+
+<blockquote class="rightalign">
+<p>Trainierende versucht den Oberhau mit einem Zornhau nach links zu versetzen.</p>
+</blockquote>
+
+>der Coach zuckt seinen Stich zurück in den linken Pflug und sticht mir aus diesem zu meinem Gesicht. Dabei macht er einen ganzen Schritt mit seinem linken Bein nach links vorne und lässt dabei bewusst die Zentrallinie offen.
+
+<blockquote class="rightalign">
+<p>Trainierende versetzt den Stich mit einem Krumphau (kurzen Schneide) nach rechts und schlägt dem Coach mit der langen Schneide zu seinem Kopf zu. Dabei bewege ich mich schräg nach links vorne.</p>
+</blockquote>
+
 
 # Kombination: Finte und Krumphau zu den Händen
 - Beide stehen in der rechten Hut vom Tag

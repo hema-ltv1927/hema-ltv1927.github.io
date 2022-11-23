@@ -7,7 +7,7 @@ date:   2022-09-16 10:00:00 +0200
 author: 
 ---
 
-Auf dieser Seite halten wir für uns unsere Trainingsinhalte als 'Bausteine' fest, die jeweils als  
+Auf dieser Seite halten wir für uns unsere Trainingsinhalte als 'Bausteine' fest. 
 
 # Einführung
 Jung Ritter lere / got lip haben / frawen io ere / 
