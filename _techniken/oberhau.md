@@ -13,16 +13,16 @@ Der Oberhau startet in der Hut 'vom Tag' und wird diagonal
  
  und endet im Alber
 
-# Einzelübung
+## Einzelübung
 - Oberhau im Stand
 - rechter Oberhau mit Schritt rechts vor
 - rechter Oberhau mit Schritt links zurück
 - rechter Oberhau mit Schritt links vor
 - das ganze geht auch mit einem linken Oberhau
 
-# Partnerübung
+## Partnerübung
 - einer führt einen Oberhau aus, der Trainingspartner blockt mit Abwärtsblock, oder nutzt das Versetzen
 
-# Lernziele
+## Lernziele
 - sichere Ausführung des Oberhaus: diagnoal, die lange Schneide immer voran und wird nicht aus der Bahn gedreht
 - was signalisiert der Körper, wenn Schulter und Hüfte in die gleiche Richtung oder gegenläufig arbeiten?

@@ -6,14 +6,14 @@ date:   2022-10-27 14:00:00 +0200
 author: Lars Walloscheck
 ---
 
-# Einleitung
+## Einleitung
 Der Zornhau startet ähnlich wie der Oberhau und wird diagonal
  - von oben rechts nach unten links in den linken Pflug geschlagen
  - kann tief auch durch den linken Pflug "geschoben" werden
  - zielt vornehmlich auf das gegnerische Schwert (passiv)
  - als Meisterhau funktioniert er auch im Indes oder Vor
 
-## Übungen zum Einstieg
+### Übungen zum Einstieg
 - beide stehen soweit auseinander das sie sich mit leichter Vorbeuge erreichen
 - spielerisch versuchen sich den anderen an der Schulter zu treffen
 
@@ -21,12 +21,14 @@ Der Zornhau startet ähnlich wie der Oberhau und wird diagonal
 - spielerisch versuchen, den anderen an der Schulter zu tapsen
 - __Steigerung:__ diese Übung aus der Bewegnung ausführen. 
 
-## Partnerübungen
+Ziel: Spüren und Erleben was den Unterschied zwischen einfachen Gegenüberstehen und das seitliche Rausgehen ausmacht.
+
+### Partnerübungen
 Die Varianten werden in langsamem Sparring ausgeführt, dabei ist immer einer in der Rolles des Coaches, der den anderen durch die Übung führt.
 
-# erste Übungen
+## erste Übungen
 
-## Zornhau gegen Oberhau (Verteidiger bleibt im Nach)
+### Zornhau gegen Oberhau (Verteidiger bleibt im Nach)
 Beide stehen in der rechten Hut vom Tag, linker Fuß vorn
 
 > Coach greift mit einem rechten Oberhau an und macht einen ganzen Schritt nach vorn
@@ -38,7 +40,7 @@ Beide stehen in der rechten Hut vom Tag, linker Fuß vorn
 </blockquote>
 
 
-## Zornhauort gegen Pflug/gerade Versatzung (Verteidiger bleibt im Nach)
+### Zornhauort gegen Pflug/gerade Versatzung (Verteidiger bleibt im Nach)
 Vorübung zum Zornhauort gegen den Zornhau
 
 >Coach steht im linken Pflug, rechtes Bein vorn
@@ -57,7 +59,7 @@ Vorübung zum Zornhauort gegen den Zornhau
 <p>Trainierende setzt mit einem Stich zur Brust nach und macht dabei einen Schritt rechten Bein</p>
 </blockquote>
 
-## Zornhau gegen Oberhau (Verteidiger kommt ins Vor, *Indes*)
+### Zornhau gegen Oberhau (Verteidiger kommt ins Vor, *Indes*)
 Beide stehen in der rechten Hut vom Tag, linker Fuß vorn
 
 > Coach greift mit einem rechten Oberhau an und macht einen ganzen Schritt nach vorn
@@ -68,7 +70,7 @@ Beide stehen in der rechten Hut vom Tag, linker Fuß vorn
 </blockquote>
 
 
-## Zornhauort gegen Oberhau (Verteidiger bleibt erst im Nach, kommt mit der Folgeaktion ins Vor)
+### Zornhauort gegen Oberhau (Verteidiger bleibt erst im Nach, kommt mit der Folgeaktion ins Vor)
 Beide stehen in der rechten Hut vom Tag, linker Fuß vorn
 
 >Coach greift mit einem rechten Zornhau/Oberhau an und macht einen ganzen Schritt nach vorn
@@ -84,7 +86,7 @@ Beide stehen in der rechten Hut vom Tag, linker Fuß vorn
 </blockquote>
 
 
-## Zornhauort + Abnehmen (Verteidiger bleibt erst im Nach, kommt mit der Folgeaktion ins Vor)
+### Zornhauort + Abnehmen (Verteidiger bleibt erst im Nach, kommt mit der Folgeaktion ins Vor)
 Beide stehen in der rechten Hut vom Tag, linker Fuß vorn
  
 >Coach greift mit einem rechten Zornhau/Oberhau an und macht einen ganzen Schritt nach vorn
@@ -119,7 +121,7 @@ graph TD;
     T5-->C7(Block und Treffer am Kopf)
 ```
 
-## Zornhau gegen Zornhau - Folgetechnik Hieb mit kurzer Schneide
+### Zornhau gegen Zornhau - Folgetechnik Hieb mit kurzer Schneide
 Beide stehen in der rechten Hut vom Tag, linker Fuß vorn
 
 >Coach greift mit einem rechten Zornhau/Oberhau an und macht einen ganzen Schritt nach vorn
@@ -132,7 +134,7 @@ Beide stehen in der rechten Hut vom Tag, linker Fuß vorn
 </blockquote>
 
 
-## Konter gegen Zornhauort - Winden
+### Konter gegen Zornhauort - Winden
 Beide stehen in der rechten Hut vom Tag, linker Fuß vorn
 
 >Coach greift mit einem rechten Zornhau/Oberhau an und macht einen ganzen Schritt nach vorn
@@ -146,9 +148,9 @@ Beide stehen in der rechten Hut vom Tag, linker Fuß vorn
 >Coach steigt mit dem linken Bein nach rechts (Übersetzen?) und windet hoch in den linken Ochs und führt seinerseits einem Stich in Richtung Kopf/Brust aus.
 
 
-# Fortgeschrittene Übungen
+## Fortgeschrittene Übungen
 
-## Zornhauort gegen Pflug/gerade Versatzung  (Zornhau als Einladung/Finte)
+### Zornhauort gegen Pflug/gerade Versatzung  (Zornhau als Einladung/Finte)
 
 Coach steht im linken Pflug, rechtes Bein vorn
 Trainierende steht in der rechten Hut vom Tag, linker Fuß vorn
@@ -164,16 +166,16 @@ Trainierende steht in der rechten Hut vom Tag, linker Fuß vorn
 <p>Trainierende nimmt das linke Bein etwas zurück (Wechselschritt) und dreht sich zum Coach, kontert mit "Hieb kurzer Schneide", oder windet hoch in den linken Ochs und sticht ebenfalls</p>
 </blockquote>
 
-# Kombination: Zornhau mit Auswinden gegen passives Versetzen
+## Kombination: Zornhau mit Auswinden gegen passives Versetzen
 
-# Kombination: Zornhau mit Knaufstoß gegen Krone
+## Kombination: Zornhau mit Knaufstoß gegen Krone
 
-# Kombination: Zornhauort + Abnehmen, Brüche gegen Abnehmen
+## Kombination: Zornhauort + Abnehmen, Brüche gegen Abnehmen
 
-# Kombination: Bruch gegen Zornhau 1 - Zucken
+## Kombination: Bruch gegen Zornhau 1 - Zucken
 
-# Kombination: Bruch gegen Zornhau 1 - Zucken - Konter und Fortsetzung
+## Kombination: Bruch gegen Zornhau 1 - Zucken - Konter und Fortsetzung
 
-# Kombination: Bruch gegen offensiven Zornhau (Indes) - Hochwinden in den Ochs
+## Kombination: Bruch gegen offensiven Zornhau (Indes) - Hochwinden in den Ochs
 
-# Kombination (Technikkette): Zornhau - Hochwinden in den Ochs - Versetzen - Zwerchhau - Versetzen oder "Unterzwerchen"
+## Kombination (Technikkette): Zornhau - Hochwinden in den Ochs - Versetzen - Zwerchhau - Versetzen oder "Unterzwerchen"
