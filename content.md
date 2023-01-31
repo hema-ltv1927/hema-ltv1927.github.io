@@ -19,13 +19,13 @@ so wächst deine Ehre; übe dich in Ritterlichkeit und lerne
 [die] Kunst, die dich schmückt und dich im Kampf verherrlicht.
 
 ## Wir befassen uns mit folgenden historischen Inhalten nach Liechtenauer
-- Grundlagen: Langschwert als Sportgerät, einfache Hiebe ([Oberhau](/techniken/oberhau), Mittelhau, Unterhau), erste Bewegungen und Stellungen
+- Grundlagen: Langschwert als Sportgerät, [einfache Hiebe](/techniken/Hiebe), erste Bewegungen, Stellungen und kurze [Tecknikkombinationen](/techniken/kurze-ablaeufe)
 - Die fünf Meisterhaue: [Zornhau](/techniken/zornhau), [Zwerchhau](/techniken/zwerchhau), [Krumphau](/techniken/krumphau), Scheitelhau und Schielhau
 - Die vier Haupthuten: Ochs, Pflug, Alber und 'Vom Tag'
 - Weitere Huten (weniger genutzte): 
 - Die drei Wunder: Hieb, Stich und Schnitt
 - Die fünf Worte: [Vor, Nach, Indes, Weich und Hart (Tempi und Mensur)](/techniken/fuenf-worte)
-- Die Hauptstücke: Versetzen, Hängen, Abnehmen, Nachreissen, Zucken, Ein- und Auswinden
+- Die Hauptstücke: Versetzen, Hängen, Abnehmen, Nachreissen, Zucken, [Ein- und Auswinden](/techniken/edler-krieg)
 - Die weiteren Stücke: Überlaufen, Durchwechseln, Durchlaufen, Abschneiden, Händdrucken, Hängen
 
 ## Weitere historische Inhalte, die bei uns Platz finden

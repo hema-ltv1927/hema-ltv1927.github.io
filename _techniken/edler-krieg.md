@@ -16,12 +16,29 @@ Hier geht es vor allem um das Gefühl des Kräftespiels (technisch: Richtung und
 - Wie kann ich die gegnerische Bedrohung am _einfachsten_ abwenden
 
 # Endloskette (Drill)
-- beide gehen in Bindung
-- der Coach windet hoch in den linken Ochs
-- der Trainierende zieht sein Schwert in die Schwäche des gegnerischen Schwertes und versetzt zu seiner Linken
-- der Coach zieht sein Schwert ebenfalls zur Schwäche des gegnerischen Schwertes und setzt ein Auswinden an und schiebt sein schwert in den Pflug.
-- der Trainierende zieht sein Schwert in die Schwäche des gegnerischen Schwertes und versetzt nach rechts in den Pflug.
-- der Coach zieht sein Schwert wieder zur Schwäche des gegnerischen Schwertes und windet wieder hoch in den linken Ochs.
+- Beide gehen in Bindung
+
+> der Trainierende windet hoch in den linken Ochs
+
+<blockquote class="rightalign">
+<p>der Coach zieht sein Schwert in die Schwäche des gegnerischen Schwertes und versetzt zu seiner Linken</p>
+</blockquote>
+>der Trainierende zieht sein Schwert ebenfalls zur Schwäche des gegnerischen Schwertes und setzt ein Auswinden an geht in den rechten Ochs
+
+<blockquote class="rightalign">
+<p>der Coach zieht sein Schwert in die Schwäche des gegnerischen Schwertes und versetzt nach links unten</p>
+</blockquote>
+>der Trainierende zieht sein Schwert wieder zur Schwäche des gegnerischen Schwertes und hebelt sein Schwert in den rechten Pflug
+
+<blockquote class="rightalign">
+<p>der Coach führt das gegnerische Schwert nach rechts durch<p>
+</blockquote>
+>der Trainierende zieht sein Schwert wieder zur Schwäche des gegnerischen Schwertes und hebelt sein Schwert in den linken Pflug
+
+<blockquote class="rightalign">
+<p>der Coach zieht sein Schwert wieder etwas zur Schwäche des gegnerischen Schwertes und windet hoch in den linken Ochs.<p>
+</blockquote>
+Der Ablauf wiederholt sich mit vertauschten Rollen.
 
 
 
