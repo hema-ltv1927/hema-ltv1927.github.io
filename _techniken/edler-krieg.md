@@ -33,13 +33,13 @@ Hier geht es vor allem um das Gefühl des Kräftespiels (technisch: Richtung und
 >der Trainierende zieht sein Schwert wieder zur Schwäche des gegnerischen Schwertes und hebelt sein Schwert in den rechten Pflug
 
 <blockquote class="rightalign">
-<p>der Coach führt das gegnerische Schwert nach rechts durch<p>
+<p>der Coach führt das gegnerische Schwert nach rechts durch</p>
 </blockquote>
 
 >der Trainierende zieht sein Schwert wieder zur Schwäche des gegnerischen Schwertes und hebelt sein Schwert in den linken Pflug
 
 <blockquote class="rightalign">
-<p>der Coach zieht sein Schwert wieder etwas zur Schwäche des gegnerischen Schwertes und windet hoch in den linken Ochs.<p>
+<p>der Coach zieht sein Schwert wieder etwas zur Schwäche des gegnerischen Schwertes und windet hoch in den linken Ochs.</p>
 </blockquote>
 
 Der Ablauf wiederholt sich mit vertauschten Rollen.
