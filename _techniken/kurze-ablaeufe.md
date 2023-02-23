@@ -2,7 +2,7 @@
 title: kurze Technikabläufe
 layout: page
 image: default
-date:   2023-02-23 23:00:00 +0200
+date:   2023-02-23 12:00:00 +0200
 author: Sabine, Laura, Lars
 ---
 
@@ -40,7 +40,7 @@ Die Abläufe sind so gestaltet, das sie auch als Partnerübung funktionieren.
 
 >der Trainierende windet am gegnerischen Schwert aus und setzt mit einem Hieb kurze Schneide nach.
 
-## Ablauf 3 Partnerübung:
+## Ablauf 3a, b Partnerübung:
 > der Trainierende macht einen Mittelhieb oder Oberhieb, Schritt rechts vorwärts
 
 <blockquote class="rightalign">
@@ -52,12 +52,26 @@ Die Abläufe sind so gestaltet, das sie auch als Partnerübung funktionieren.
 </blockquote>
 
 
-## als Partnerübung
+## Ablauf 4 Partnerübung
 > der Trainierende macht einen Mittelhieb, Schritt rechts vorwärts
 
 <blockquote class="rightalign">
-<p>der Coach dreht sichzum gegnerischen Schwert und blockt mit einem Aufwärtsblock</p>
+<p>der Coach dreht sich zum gegnerischen Schwert und blockt mit einem Aufwärtsblock</p>
 <p>der Coach überführt das Schwert und windet in rechten Pflug</p>
 </blockquote>
 
->der Trainierende macht was<ausprobieren>?
+>der Trainierende macht was (nochmal ausprobieren)?
+
+
+# Prise Chaos :-)
+
+## aus der Bewegung
+Die Abläufe werden aus der Bewegung heraus gestartet.
+ - die Partner bewegen sich schrittweise vor und zurück.
+ - freies Bewegen in der Halle, Partner finden mit Hilfe von Blickkontakt zusammen und führen einen Ablauf aus. dann Wechsel zum nächsten Partner
+
+
+## mit mehr Geschwindigkeit
+Sitzen die Abläufe kann das Tempo erhöht werden
+- Helm ist erforderlich!
+
