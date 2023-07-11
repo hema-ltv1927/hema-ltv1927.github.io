@@ -29,7 +29,7 @@ so wächst deine Ehre; übe dich in Ritterlichkeit und lerne
 - Die weiteren Stücke: Überlaufen, Durchwechseln, Durchlaufen, Abschneiden, Händdrucken, Hängen
 
 ## Weitere historische Inhalte, die bei uns Platz finden
-- Das Ringen
+- [Das Leibringen](/techniken/leibringen)
 - [Entwaffnungen](/techniken/entwaffnen)
 
 ## Andere, nicht historische Inhalte
